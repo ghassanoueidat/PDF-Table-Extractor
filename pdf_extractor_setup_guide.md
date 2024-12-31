@@ -183,4 +183,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-If you encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/your-username/pdf-table-extractor/issues). 😊
+If you encounter any issues, feel free to open an issue on the [GitHub repository](https://github.com/ghassanoueidat/PDF-Table-Extractor/issues). 😊
