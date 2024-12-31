@@ -1,0 +1,6 @@
+camelot-py[cv]
+pandas
+openpyxl
+matplotlib
+PyPDF2==1.26.0
+tkinter
