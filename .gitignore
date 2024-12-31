@@ -160,6 +160,26 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# 📁 Virtual Environment
+venv/
+.env
+.env.local
+
+# 🐍 Python Bytecode Files
+__pycache__/
+*.pyc
+*.pyo
+
+# 💻 OS-Specific Files
+.DS_Store  # macOS Finder metadata
+Thumbs.db  # Windows image preview cache
+
+# 🛠️ IDE and Editor-Specific Files
+.vscode/   # Visual Studio Code
+.idea/     # JetBrains IDEs
+*.iml      # IntelliJ Module Files
+*.swp      # Vim swap files
+
 # PyCharm
 #  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
 #  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
